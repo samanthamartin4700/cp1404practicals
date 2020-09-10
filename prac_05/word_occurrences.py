@@ -2,7 +2,7 @@
 CP1404 WORD OCCURRENCES
 By Samantha Martin
 I did look at the solutions to assist in some parts that
-i found difficult to understand.
+I found difficult to understand.
 """
 
 WORD_COUNT = {}

@@ -1,7 +1,7 @@
 """
 CP1404 EMAILS
 By Samantha Martin
-Used solutions for assistance in this program as I was having issues
+I used solutions for assistance in this program as I was having issues
 when I was splitting my email address.
 """
 
