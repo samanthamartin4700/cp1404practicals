@@ -1,5 +1,5 @@
 """
-CP1404 HEX COLOURS
+CP1404 HEX_COLOURS
 By Samantha Martin
 """
 
