@@ -14,5 +14,9 @@ for word in words:
     except KeyError:
         WORD_COUNT[word] = 1
 
+words = list(WORD_COUNT.keys())
+words.sort()
+
+longest_word = max(len(word) for word in words)
 for word in words:
-    print("{} : {}".format(word, WORD_COUNT[word]))
+    print("{:{}} : {}".format(word, longest_word, WORD_COUNT[word]))
