@@ -4,6 +4,6 @@ def main():
     silver_taxi = SilverServiceTaxi("Silver Taxi", 100, 2)
     silver_taxi.drive(18)
     print(silver_taxi)
-    print("${}".format(silver_taxi.get_fare()))
+    print("${:.2f}".format(silver_taxi.get_fare()))
 
 main()
